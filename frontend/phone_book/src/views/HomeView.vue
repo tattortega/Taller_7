@@ -13,7 +13,7 @@
             <th>ID</th>
             <th>Nombre</th>
             <th>Apellido</th>
-            <th>Celular</th>
+            <th>Teléfono</th>
             <th>Email</th>
             <th>Fecha de Nacimiento</th>
           </tr>

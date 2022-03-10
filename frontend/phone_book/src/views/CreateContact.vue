@@ -27,12 +27,12 @@
           />
         </div>
         <div class="mb-3">
-          <label for="phone">Celular : </label>
+          <label for="phone">Teléfono : </label>
           <input
             id="phone"
             name="phone"
             type="number"
-            placeholder="Digite su celular "
+            placeholder="Digite su teléfono "
             class="form-control"
             v-model="phone"
           />
@@ -111,7 +111,7 @@ export default {
         }
       } catch (err) {
         console.log(err);
-        alert("El número de telefono ya existe en la base de datos");
+        alert("El número de teléfono ya existe en la base de datos");
       }
     },
   },

@@ -1,4 +1,4 @@
-# Taller_7
+# Taller 7
 
 # Taller de SQL: Creando un CRUD
 

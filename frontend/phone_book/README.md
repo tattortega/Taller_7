@@ -1,24 +1,22 @@
-# phone_book
+# Agenda telefonica
+Proyecto desarrollado en IntelliJ IDEA Ultimate, utilizando:
+* Vue.js version 2
 
-## Project setup
+## Instrucciones para ejecutar el proyecto
+
+1. Clonar el repositorio:
+```
+git clone https://github.com/tattortega/Taller_7.git
+```
+2. Ubicarse en la raiz del proyecto:
+```
+cd .\frontend\
+cd .\phone_book\
+```
+3. Ejecutar los siguientes comandos:
 ```
 npm install
-```
-
-### Compiles and hot-reloads for development
-```
 npm run serve
 ```
 
-### Compiles and minifies for production
-```
-npm run build
-```
 
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
